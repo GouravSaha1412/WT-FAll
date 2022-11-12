@@ -32,14 +32,14 @@
                 
             </tr>
             <tr>
-                <td><label for="fname">father's name</label></td>
+                <td><label for="fname">User name</label></td>
                 <td>
                     <input type="textbox">
                 </td>
             </tr>
                 <tr>
                     <td>
-                        <label for="sid">Student id</label>
+                        <label for="sid">Teachers id</label>
                     </td>
                     <td>
                         <input type="textbox">
